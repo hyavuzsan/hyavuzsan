@@ -8,6 +8,7 @@ Currently, I'm learning .NET Core.
 
 ### 🛠️ Technologies:
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
@@ -31,7 +32,7 @@ Currently, I'm learning .NET Core.
 
 ---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=hyavuzsan&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyavuzsan&layout=compact)
 
 ---
 
